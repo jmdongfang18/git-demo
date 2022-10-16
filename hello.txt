@@ -13,4 +13,4 @@ hello jmpower!hello git!
 hello jmpower!hello git!
 hello jmpower!hello git!
 hello jmpower!hello git! master test
-hello jmpower!hello git!
+hello jmpower!hello git! hot-fix test
